@@ -7,6 +7,9 @@ This project is a hands-on training initiative for applying best practices in au
 -   **PHPUnit Setup:**  
     Tests are configured using [phpunit.xml](phpunit.xml).
 
+-   **Test-Driven Development (TDD):**  
+    This project follows TDD principles to drive application development.
+
 -   **Laravel Testing:**  
     Feature tests extend the Laravel base class ([Tests\TestCase](tests/TestCase.php)) and utilize built-in testing helpers.
 
