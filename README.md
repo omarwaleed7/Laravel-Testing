@@ -1,6 +1,6 @@
 # Training Project for Testing
 
-This project is a hands-on training initiative for applying best practices in automated testing. It covers several aspects of testing in a Laravel application.
+This project is a hands-on training initiative for applying best practices in automated testing and Test-Driven Development (TDD). It covers several aspects of testing in a Laravel application.
 
 ## Key Testing Aspects
 
